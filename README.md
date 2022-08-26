@@ -1,6 +1,6 @@
 <html>
  <head>
-<title> hi this is a title <title/>
+<title> hi this is a title </title>
  
  </head>
  <body>

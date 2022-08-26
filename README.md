@@ -1,7 +1,6 @@
 <html>
  <head>
-<title> hi this is a title </title>
- 
+ hi
  </head>
  <body>
     <p> hello there </p>
